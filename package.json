@@ -1,0 +1,62 @@
+{
+  "name": "minion-admin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@redux-devtools/extension": "^3.2.2",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@fortawesome": "5.15.4",
+    "@reduxjs/toolkit": "^1.9.0",
+    "@ant-design/icons": "^5.2.6",
+    "@ant-design/colors": "^7.0.0",
+    "antd": "^5.9.2",
+    "antd-table-saveas-excel": "^2.2.1",
+    "chart.js": "^4.0.1",
+    "react-chartjs-2": "^5.0.1",
+    "axios": "^0.27.2",
+    "dayjs": "^1.11.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^6.3.0",
+    "react-tailwindcss-datepicker": "^1.6.0",
+    "react-scripts": "5.0.1",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1",
+    "moment": "^2.29.4",
+    "web-vitals": "^2.1.4",
+    "react-icons": "^4.4.0",
+    "form-data": "^3.0.1",
+    "vite": "^4.1.0",
+    "socket.io": "^4.7.2",
+    "socketio": "^1.0.0",
+    "react-notifications": "^1.7.4",
+    "draftjs-to-html": "^0.9.1",
+    "draft-js": "^0.11.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.3"
+  }
+}
