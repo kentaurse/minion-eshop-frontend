@@ -105,7 +105,6 @@ export default function LogIn() {
                 name="email"
                 id="email"
                 placeholder="ex:Admin@gmial.com"
-                value="Admin@gmial.com"
                 className="border border-white foucs:border-minionBlue bg-gray-100 text-gray-700 placeholder:text-gray-500  rounded-md w-full py-2 pl-6 text-xl outline-minionBlue  shadow-minionBlue"
               />
               <span
@@ -132,7 +131,6 @@ export default function LogIn() {
                 type={eye ? "text" : "password"}
                 name="password"
                 id="password"
-                value="123456"
                 placeholder="Enter your password more than 8"
                 className="border border-white foucs:border-minionBlue bg-gray-100  text-gray-700 placeholder:text-gray-500  rounded-md w-full py-2 pl-6 text-xl outline-minionBlue shadow-minionBlue"
               />
